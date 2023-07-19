@@ -1,1 +1,1 @@
-Ongoing project for the course "Mathematical modeling" at University of Trento.
+I'm implementing the basic models of RNA velocity in Python
