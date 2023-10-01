@@ -1,1 +1,1 @@
-I'm implementing the basic models of RNA velocity in Python
+Modelling gene expression dynamics using ODEs (done) + parameter estimation using machine learning (To do)
